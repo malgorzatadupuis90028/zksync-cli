@@ -1,0 +1,10 @@
+{
+  "name": "zksync-cli",
+  "version": "0.1.0",
+  "description": "CLI tool that simplifies ZKsync development",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "node --test"
+  },
+  "license": "MIT"
+}
