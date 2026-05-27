@@ -1,6 +1,6 @@
 {
   "name": "zksync-cli",
-  "version": "0.1.11",
+  "version": "0.1.12",
   "description": "CLI tool that simplifies ZKsync development",
   "main": "src/index.ts",
   "scripts": {
